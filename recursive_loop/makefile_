@@ -1,0 +1,4 @@
+g++ -o loop main.cpp
+g++ -o main_find_recursive main_find_recursive.cpp
+
+g++ -o main_traversal_point main_traversal_point.cpp
