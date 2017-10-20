@@ -1,2 +1,8 @@
 2) 二分查找 binary search page20
 	g++ -o binary_search main_binary_search.cpp
+3)排序二叉树(sorted binary tree) 排序二叉树的定义很简单：（1）非叶子节点至少一边的分支非NULL；（2）叶子节点左右分支都
+为NULL；（3）每一个节点记录一个数据，同时左分支的数据都小于右分支的数据。
+	NOT HAVE TEST MAIN FUNCTION.
+4)哈希表(hash table)	哈希表的定义如下：1）每个数据按照某种聚类运算归到某一大类，然后所有数据链成一
+个链表；2）所有链表的头指针形成一个指针数组。这种方法因为不需要完整排序，所以在处理中等规模数据的时
+候很有效。
